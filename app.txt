@@ -1,0 +1,5 @@
+Create a branch named development and switch to it
+. Create app.txt, write a few words inside it, and save it. 
+Stage and commit the file with a suitable message. 
+
+Push the development branch to GitHub.
